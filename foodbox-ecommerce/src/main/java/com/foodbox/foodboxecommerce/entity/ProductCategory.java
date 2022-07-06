@@ -1,4 +1,4 @@
-package com.foodbox.entity;
+package com.foodbox.foodboxecommerce.entity;
 
 import java.util.Set;
 
